@@ -31,7 +31,7 @@ public class Task1 {
     }
 
     public static String[] readJsonFile() throws IOException, ParseException, FileNotFoundException {
-        Object o = new JSONParser().parse(new FileReader("file.json"));
+        Object o = new JSONParser().parse(new FileReader("task1.json"));
         JSONObject j = (JSONObject) o;
         String name = (String) j.get("name");
         String country = (String) j.get("country");
