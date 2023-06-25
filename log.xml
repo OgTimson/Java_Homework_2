@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-25T09:22:44.495554500Z</date>
+  <millis>1687684964495</millis>
+  <nanos>554500</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Source array: [5, 2, 8, 1, 4]</message>
+</record>
+<record>
+  <date>2023-06-25T09:22:44.566369800Z</date>
+  <millis>1687684964566</millis>
+  <nanos>369800</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iteration 1: [2, 5, 8, 1, 4]</message>
+</record>
+<record>
+  <date>2023-06-25T09:22:44.567361Z</date>
+  <millis>1687684964567</millis>
+  <nanos>361000</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iteration 1: [2, 5, 1, 8, 4]</message>
+</record>
+<record>
+  <date>2023-06-25T09:22:44.570354100Z</date>
+  <millis>1687684964570</millis>
+  <nanos>354100</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iteration 1: [2, 5, 1, 4, 8]</message>
+</record>
+<record>
+  <date>2023-06-25T09:22:44.571351Z</date>
+  <millis>1687684964571</millis>
+  <nanos>351000</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iteration 2: [2, 1, 5, 4, 8]</message>
+</record>
+<record>
+  <date>2023-06-25T09:22:44.572348800Z</date>
+  <millis>1687684964572</millis>
+  <nanos>348800</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iteration 2: [2, 1, 4, 5, 8]</message>
+</record>
+<record>
+  <date>2023-06-25T09:22:44.573345900Z</date>
+  <millis>1687684964573</millis>
+  <nanos>345900</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iteration 3: [1, 2, 4, 5, 8]</message>
+</record>
+</log>
